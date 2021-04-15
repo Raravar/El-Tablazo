@@ -1,3 +1,19 @@
+#oferta{
+  
+  border: 10px solid #080fef;
+  background-color: #1860e2;
+  margin: 20px;
+  color: white;
+  
+
+}
+
+
+#botoncircular {
+  width:140px;
+  height:140px;
+}
+
 
 #botonmorado {
   background-color: #5250cc;
@@ -53,9 +69,6 @@ body {
 }
 
 
-.separador {
-  margin: 1rem 0; /* Space out the Bootstrap <hr> more */
-}
 
 
 /* RESPONSIVE CSS
