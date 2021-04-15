@@ -8,10 +8,12 @@
 
 }
 
+
 #botoncircular {
   width:140px;
   height:140px;
 }
+
 
 #botonmorado {
   background-color: #5250cc;
@@ -89,4 +91,13 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+#Imgsize {
+  width: 350px;
+  height: 380px;
+}
+
+#centrar {
+  text-align:center;
 }
