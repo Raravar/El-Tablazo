@@ -21,10 +21,10 @@ body {
     background-color: lightblue;
     padding-bottom: 3rem;
   }
-/* CUSTOMIZE THE CAROUSEL
+/* carrusel 
 -------------------------------------------------- */
 
-/* Carousel base class */
+/* Margen superior del carrusel */
 .carousel {
   margin-bottom: 4rem;
   
@@ -36,7 +36,7 @@ body {
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
+/* posicionamiento y fondo del carrusel */
 .carousel-item {
   height: 32rem;
   background-color: rgb(165, 215, 228);
@@ -53,7 +53,7 @@ body {
 /* Productos index
 -------------------------------------------------- */
 
-/* centrar las columnas
+ centrar las columnas
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
